@@ -12,4 +12,3 @@ Conception d'un système d'aide à la décision pour le diagnostic technique des
 - **Analyse des signaux (Deep Learning) :** Modèles **CNN** et **LSTM** pour l'extraction de signatures vibratoires/temporelles et la détection d'anomalies.
 - **IA Générative (RAG) :** Pipeline **Retrieval-Augmented Generation** propulsé par **Mistral** pour croiser les anomalies détectées avec les manuels de maintenance.
 
-*Note : Conformément aux règles de confidentialité industrielle, ce dépôt présente l'architecture générique et des scripts basés sur des données synthétiques.*
